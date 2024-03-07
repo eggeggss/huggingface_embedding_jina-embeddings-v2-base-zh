@@ -1,5 +1,5 @@
  
-## huggingfac的sentence-transformers/jinaai/jina-embeddings-v2-base-zh 
+## huggingface的sentence-transformers/jinaai/jina-embeddings-v2-base-zh 
 
 https://huggingface.co/jinaai/jina-embeddings-v2-base-zh
 
